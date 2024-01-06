@@ -1,6 +1,8 @@
 # Hello, World! 👋 
 
-I am a **Front-End Web Developer** passionate about creating engaging and interactive web applications using modern technologies. My role involves designing intuitive user interfaces and translating designs into code to develop web pages using HTML, CSS and JavaScript. In addition to coding, I also enjoy using my design and editing skills to create a seamless user experience.
+I'm a **Front-End Web Developer** based in Argentina. I create modern and responsive web applications using React.
+
+🌐 [Check out my portfolio!](https://vlas-dev.github.io/)
 
 ## 🛠️ Skills
 

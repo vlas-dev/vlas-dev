@@ -4,9 +4,6 @@ I'm a **Front-End Developer** based in Argentina. I create modern and responsive
 
 🌐 [Check out my portfolio!](https://vlas-dev.github.io/)
 
-<a href="https://example.com" target="_blank">Visit Example.com</a>
-
-
 ## 🛠️ Skills
 
 

@@ -2,7 +2,7 @@
 
 I'm a **Front-End Developer** based in Argentina. I create modern and responsive web apps using React.
 
-🌐 [Check out my portfolio!](https://vlas-dev.github.io/){:target="_blank"}
+🌐 [Check out my portfolio!](https://vlas-dev.github.io/)
 
 ## 🛠️ Skills
 

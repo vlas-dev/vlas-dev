@@ -1,6 +1,6 @@
 # Hello, World! 👋 
 
-I'm a **Frontend Developer** based in Argentina. I create modern and responsive web apps using React.
+I'm a **Frontend Developer** based in Argentina. I create modern and responsive web apps using React and Svelte.
 
 🌐 [Check out my portfolio!](https://vlas-dev.github.io/)
 
